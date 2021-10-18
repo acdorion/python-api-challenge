@@ -2,4 +2,4 @@
 weather_api_key = "https://openweathermap.org/api"
 
 # Google API Key
-g_key = "delta-era-329404"
+g_key = "AIzaSyAmPZR5AROLp35olc1PFfGGxY5HiPK4l3I"
